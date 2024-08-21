@@ -1,7 +1,7 @@
 # Machine-Learning-Clustering-
-<h3> Netflix Movies and TV Shows Unsupervised  Machine Learning </h3> 
-<h2>Project description:<br></h2>
-<h2>The Netflix Movies and TV Shows Unsupervised Machine Learning project sought to delve 
+<h2> Netflix Movies and TV Shows Unsupervised  Machine Learning </h2> 
+<h3>Project description:<br></h3>
+<h3>The Netflix Movies and TV Shows Unsupervised Machine Learning project sought to delve 
 into the vast Netflix dataset, leveraging advanced analytics to extract meaningful insights. 
 The primary objectives included understanding content availability trends, exploring patterns 
 through clustering, and implementing a content-based recommender system for enhanced 
@@ -24,4 +24,4 @@ shows compared to movies in recent years.
  Applying clustering algorithms to group TV shows and movies with 
 comparable characteristics. 
 Through these analyses, we aim to unveil key insights into Netflix's content strategy, regional 
-variations, and the evolving landscape of its offerings.</h2>
+variations, and the evolving landscape of its offerings.</h3>
